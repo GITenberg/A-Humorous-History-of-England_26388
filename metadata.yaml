@@ -1,0 +1,30 @@
+_repo: A-Humorous-History-of-England_26388
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26388-h/images/cover.png
+creator:
+  author:
+    agent_name: Harrison, Charles
+    deathdate: 1943
+    gutenberg_agent_id: '31969'
+    url: http://www.gutenberg.org/2009/agents/31969
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2008-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26388'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry'
+- !lcsh 'Caricatures and cartoons -- Great Britain'
+- !lcc 'NC'
+- !lcsh 'Great Britain -- History -- Humor'
+- !lcc 'PR'
+- !lcsh 'English wit and humor'
+title: A Humorous History of England
+url: http://www.gutenberg.org/ebooks/26388
